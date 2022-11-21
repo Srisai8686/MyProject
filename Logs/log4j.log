@@ -1,0 +1,7 @@
+2022-10-12 16:53:48 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-10-12 16:53:48 INFO  Log:22 - User is going to click on signin
+2022-10-12 16:53:50 INFO  Log:22 - Getting username and password from properties file
+2022-10-12 16:53:57 INFO  Log:22 - getting current url from page
+2022-10-12 16:53:57 INFO  Log:22 - Validating if user is on login page
+2022-10-12 16:53:57 INFO  Log:22 - Login is successful
+2022-10-12 16:53:57 INFO  Log:15 - =====================================loginTest TEST END=========================================
